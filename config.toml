@@ -2,3 +2,6 @@ baseURL = 'https://iiimpact.github.io/hungerrush_handheld_docs/'
 languageCode = 'en-us'
 title = 'HungerRush Handheld Documentation'
 theme = "hugo-theme-learn"
+
+[params]
+  disableLandingPageButton = true
