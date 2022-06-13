@@ -43,6 +43,7 @@ https://dev.azure.com/HungerRush/ReventionMain/_git/RevServices
 - Add a new SQL user with rights to this database 119:
     - username: `Revention`
     - password: `Astr0s`
+    
 - If user already exists within database, remove first and add user
 - Enable `SQL authorization`
 - Check that `RevControlSvc` is running
