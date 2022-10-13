@@ -20,7 +20,7 @@ In order to restart the POS test server the following 2 application are used:
 - **Teamviewer** -> connect file transfer with id **953 138 928** (Teamviewer session & Windows VM passwords can be obtained from any of the active developers)
 - **Microsoft Remote Desktop** (requires VPN, needs fixing since we currently don't have VPN access anymore) 
 
-### Solutions
+### Solutions Overview
 
 There are 12 solution in RevCloudPOS of which some are more relevant than others: 
 - **DataService** defines the main data services that we use frequently on the POS client 
