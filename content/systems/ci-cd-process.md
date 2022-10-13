@@ -6,7 +6,7 @@ weight: 1
 description: Setup guides for the POS device
 ---
 
-## Continuous Integration & Continuous Delivery
+## Continuous Integration & Continuous Delivery testing
 
 Continuous Integration and automated testing is done through a combination of writing unit tests for the development language used for the project and [Azure Devops](https://dev.azure.com/).
 
