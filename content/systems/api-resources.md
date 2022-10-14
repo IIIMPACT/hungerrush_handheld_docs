@@ -14,6 +14,7 @@ which the client uses to send and receive data from.
 
 This [repository](https://github.com/IIIMPACT/hungerrush-handheld-infrastructure) represents the IaC for the HungerRush Handheld project and is built and maintained in Terraform.
 You can also login into Azure portal using the **iciuser@devrevention.onmicrosoft.com** (password can be obtained from an active dev) to view the deployed resources.
+These resources should not be modified via Azure portal directly, they must be changed via Infrastructure as Code using Terraform. 
 
 ### Connecting to the Windows VW
 In order to restart the POS test server the following 2 application are used:
