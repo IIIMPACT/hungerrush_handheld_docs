@@ -1,6 +1,6 @@
 ## Hugo documentation for Handheld
 
-This repository represents the application which is used by developers and key stakeholders to document the Hungerrush Hand Held platform.
+This repository represents the application which is used by developers and key stakeholders to document the Hungerrush Handheld platform.
 The documentation is written in Markdown and is rendered by [Hugo](https://gohugo.io/).
 The documentation is hosted on GitHub Pages and is available at [https://iiimpact.github.io/hungerrush_handheld_docs/](https://iiimpact.github.io/hungerrush_handheld_docs/).
 
