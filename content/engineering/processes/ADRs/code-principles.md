@@ -6,18 +6,21 @@ description: "This is an ADR for our finding regarding Code Patterns"
 weight: 2
 ---
 
-```
-# Title
-
 ## Status
-- What is the status (proposed, accepted, rejected, deprecated, superseded etc.)?
+
+- (proposed)
 
 ## Context
-- What is the issue that is motivating this decision or change?
+
+- We need a structured set of rules to define how we go about code patterns, such as how we handle exceptions, logging, etc.
+- We need to define a set of patterns that we can use to ensure consistency across the codebase
 
 ## Decision
-- What is the change that we are proposing and/or implementing?
+
+- Using MVVM as our base pattern for all UI code
+- Using SOLID/DRY/KISS/YAGANI Design Principles as our base patterns
 
 ## Consequences
-- What becomes easier or more difficult to do because of this change?
-```
+
+- Code will be more readable and structured.
+- Code will take longer to write as a result.

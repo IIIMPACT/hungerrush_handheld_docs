@@ -6,7 +6,7 @@ description: "Incident report template"
 weight: 20
 ---
 
-# Sigma Technical Incident Report
+# IIIMPACT Technical Incident Report
 
 **Account**: The name of the client account affected  
 **Severity**: A value of p0,p1,p2,p3 depending on the severity of the incident  

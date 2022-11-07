@@ -6,18 +6,21 @@ description: "This is an ADR for our finding regarding Code Styles"
 weight: 1
 ---
 
-```
-# Title
-
 ## Status
-- What is the status (proposed, accepted, rejected, deprecated, superseded etc.)?
+
+- proposed
 
 ## Context
-- What is the issue that is motivating this decision or change?
+
+- We need a structed set of rules to define how we go about code styling/formating
 
 ## Decision
-- What is the change that we are proposing and/or implementing?
+
+- Using Sonar Cube in our CI process to enforce code styles in the HandHeld Codebase
+- Using ReSharper/Rider for local linting and fomating
 
 ## Consequences
-- What becomes easier or more difficult to do because of this change?
-```
+
+- Formatting and linting will be enforced in the CI process
+- Code will be more readable and structured.
+- will require extra effort to ensure proper linting and code styling is enforced.

@@ -3,7 +3,7 @@ title: "CI CD"
 date: 2022-06-09T08:57:43+02:00
 draft: false
 description: "Automated Testing, Continuous Integration and Continuous Delivery"
-weight: 3
+weight: 4
 ---
 
 ## Automated Testing

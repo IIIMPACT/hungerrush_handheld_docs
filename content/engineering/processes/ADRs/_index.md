@@ -3,7 +3,7 @@ title: "ADRs"
 date: 2022-09-29T12:05:51+02:00
 draft: false
 description: "Architecture Decision Records"
-weight: 4
+weight: 5
 ---
 
 ## Architecture Decision Records (ADRs) template
