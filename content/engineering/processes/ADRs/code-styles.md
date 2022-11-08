@@ -16,11 +16,11 @@ weight: 1
 
 ## Decision
 
-- Using Sonar Cube in our CI process to enforce code styles in the HandHeld Codebase
-- Using ReSharper/Rider for local linting and fomating
+- Using Sonar Cloud in our CI & Local Linting process to enforce code styles in the HandHeld Codebase
+- Using ReSharper/Rider for local linting and formating
 
 ## Consequences
 
-- Formatting and linting will be enforced in the CI process using Sonar linting for detepcting coding issues in real-time and get clear guidance on how to fix them.
+- Formatting and linting will be enforced in the CI process using Sonar linting for detecting coding issues in real-time and get clear guidance on how to fix them.
 - Code will be more readable and structured.
 - will require extra effort to ensure proper linting and code styling is enforced.
