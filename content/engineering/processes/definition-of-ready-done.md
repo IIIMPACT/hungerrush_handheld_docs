@@ -8,8 +8,6 @@ weight: 2
 
 At each stage of a task or story's progression we have a set of criteria that must be met before the task or story can be moved to the next stage. This is known as the Definition of Ready (DoR) and Definition of Done (DoD).
 
-#### [Miro Board design reference](https://miro.com/app/board/o9J_lQZaYIk=/)
-
 ## Selected for development (DoR)
 
 - We have designs

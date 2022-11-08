@@ -16,7 +16,7 @@ To easily edit this table use the following link [tablesgenerator](https://www.t
 | Model     | Business Objects that encapsulate data and behavior of application domain              | Models/\<Context>/\<Name>      | Models/Employee/EmployeeMail.cs Models/Employee/EmployeeObj.cs |
 | ViewModel | Link between Model and View OR It Retrieves data from Model and exposes it to the View | ViewModels/\<Context>/\<Name>  | ViewModels/Auth/LoginViewModel.cs                              |
 | Interface | a syntactical contract that an entity should conform to                                | Interfaces/\<Name>             | Interfaces/User                                                |
-| Control   | An Resuable UI Element                                                                 | UI/Controls/\<Context>/\<Name> | UI/Controls/Button/FlatButton.xaml                             |
+| Control   | A Resuable UI Element                                                                  | UI/Controls/\<Context>/\<Name> | UI/Controls/Button/FlatButton.xaml                             |
 | Service   | Responsible for sending HTTP requests to the API                                       | Services/\<Name>               | Services/Auth                                                  |
 | Utilities | Helper Functions                                                                       | Utils/\<Name>                  | Utils/Case.cs                                                  |
 | Assets    | Assets for UI elements e.g Pictures,Fonts etc                                          | Assets/\<Context>/\<Name>      | Assets/Fonts/Robot.Thin.tff                                    |
