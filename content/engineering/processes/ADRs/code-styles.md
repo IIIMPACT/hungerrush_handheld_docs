@@ -21,6 +21,6 @@ weight: 1
 
 ## Consequences
 
-- Formatting and linting will be enforced in the CI process
+- Formatting and linting will be enforced in the CI process using Sonar linting for detepcting coding issues in real-time and get clear guidance on how to fix them.
 - Code will be more readable and structured.
 - will require extra effort to ensure proper linting and code styling is enforced.
