@@ -9,6 +9,14 @@ description: General info about setting up the linting tool
 ## Introduction
 This setup uses husky and lint-staged to clean C# and XML-based codes.
 
+## Setup for new members
+1. navigate to root directory where we have the .SLN file and .git folder
+
+2. run **npm install**
+
+
+## Fresh setup
+
 ### Pre-requisites
 - **1. Install node on your computer** ->, and make sure it’s available in your terminal by running node -v
 
