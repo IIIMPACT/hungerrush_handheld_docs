@@ -1,8 +1,8 @@
 ---
-title: "Test Coverage"
+title: "Testing"
 date: 2021-08-31T18:11:32+02:00
 draft: false
-description: "Our thresholds and minimum requirements for test coverage"
+description: "Our thresholds and minimum requirements for test coverage & more information regarding testing throughout HH"
 weight: 6
 ---
 
